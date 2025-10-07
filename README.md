@@ -1,14 +1,15 @@
 ### Hello world! 👋
 
-I'm Marcus, a freelancing web developer based in Borås, Sweden. Been building stuff for the interwebs since the early 2000s – nowadays more often than not with the TALL-stack ([tailwindcss](https://github.com/tailwindlabs/tailwindcss), [alpine](https://github.com/alpinejs/alpine), [laravel](https://github.com/laravel/laravel), [livewire](https://github.com/livewire/livewire)) and occasionally with some [vue](https://github.com/vuejs/vue)-magic.
+I'm Marcus, a freelance web developer based in Borås, Sweden. Been building stuff for the web since the early 2000s – hese days mostly with the TALL-stack ([tailwindcss](https://github.com/tailwindlabs/tailwindcss), [alpine](https://github.com/alpinejs/alpine), [laravel](https://github.com/laravel/laravel), [livewire](https://github.com/livewire/livewire)) and occasionally with some [vue](https://github.com/vuejs/vue)-magic.
 
-Have any questions about [my repositories](https://github.com/olssonm?tab=repositories&q=&type=source&language=&sort=), work or do you want to hire me/collaborate on a project? [Drop me a mail](https://marcusolsson.me/kontakta-marcus-olsson).  
+Have any questions about [my repositories](https://github.com/olssonm?tab=repositories&q=&type=source&language=&sort=), work or do you want to hire me/collaborate on a project? [Drop me an email](https://marcusolsson.me/kontakta-marcus-olsson)!  
 
 #### Sponsoring
-Are you interested in helping me out maintaining my packages? Please feel free to [sponsor me](https://github.com/sponsors/olssonm)!
+Interested in helping me maintain my open-source packages? Feel free to [sponsor me](https://github.com/sponsors/olssonm)!
 
 #### Find me elsewhere
 - Website https://marcusolsson.me
-- Twitter [@olssonm](https://twitter.com/olssonm)
+- Bluesky [@olsson.io](https://bsky.app/profile/olsson.io)
 - Keybase [olssonm](https://keybase.io/olssonm)
 - Letterboxd [olssonm](https://letterboxd.com/olssonm/)
+- <del>Twitter [@olssonm](https://twitter.com/olssonm)</del>
